@@ -16,6 +16,9 @@
       <img src="https://img.icons8.com/?size=48&id=108784&format=png" alt="JavaScript" width="40px"/>
       <img src="https://img.icons8.com/?size=64&id=55497&format=png" alt="API" width="40px"/>
 </div>
-<p>When creating the application "Weather Forecast", I became acquainted with the API, AJAX, JSON and learned how to use them in my work.</p>
+<p>When creating the application "Weather Forecast", I became acquainted with the API, AJAX, JSON and learned how to use them in my work. I also added style by writing a function in the Java script that, when used, changes the image when the weather changes.</p>
+
+   ### :hammer_and_wrench: Notes :
+   <p>You can use my project for educational purposes.</p>
 
 
