@@ -6,3 +6,6 @@
     <img src="https://komarev.com/ghpvc/?username=Alisa-Popovuch&style=flat-square&color=yellow" alt="" width="170px" height="25px"/>
 </div>
 
+### :hammer_and_wrench: About App
+<p>The application was created in order to find out the weather forecast in a city of interest anywhere in the world. The city you are interested in can be entered into the search bar in any language, and the weather information you need will be returned in English.</p>
+
