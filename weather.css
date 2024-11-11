@@ -1,5 +1,5 @@
 body {
-    background-image: url(photo.jpg);
+    background-image: url("./assets/photo.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
@@ -184,7 +184,7 @@ figure {
         opacity: 0.75;
     }
 }
- @keyframes reverse-float {
+@keyframes reverse-float {
     0% {
         -ms-transform: translate(0px, -15px);
         transform: translate(0px, -15px);
@@ -253,7 +253,7 @@ figure {
         opacity: 0;
     }
 }
- @keyframes rain {
+@keyframes rain {
     0% {
         opacity: 1;
     }

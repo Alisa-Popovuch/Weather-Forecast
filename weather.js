@@ -59,7 +59,7 @@ function backgroundPhoto (result) {
     let snow = document.querySelector(".snow");
     switch (weatherMain) {
         case "Clear": 
-            body.style.backgroundImage = "url(clear.jpg)";
+            body.style.backgroundImage = "url(./assets/clear.jpg)";
             container.style.backgroundColor = "#84cbf7";
             enterYourCity.style.backgroundColor = "#84cbf7";
             sunny.style = "display:block";
@@ -70,7 +70,7 @@ function backgroundPhoto (result) {
             snow.style = "display:none";
             break;
         case "Clouds":
-            body.style.backgroundImage = "url(clouds.jpg)";
+            body.style.backgroundImage = "url(./assets/clouds.jpg)";
             container.style.backgroundColor = "#c3cdd3";
             enterYourCity.style.backgroundColor = "#c3cdd3";
             cloud.style = "display:block";
@@ -81,7 +81,7 @@ function backgroundPhoto (result) {
             snow.style = "display:none";
             break;
         case "Rain":
-            body.style.backgroundImage = "url(rain.jpg)";
+            body.style.backgroundImage = "url(./assets/rain.jpg)";
             container.style.backgroundColor = "#93a7c0";
             enterYourCity.style.backgroundColor = "#93a7c0";
             rain.style = "display:block";
@@ -92,7 +92,7 @@ function backgroundPhoto (result) {
             snow.style = "display:none";
             break;
         case "Thunderstorm":
-            body.style.backgroundImage = "url(thunderstorm.jpg)";
+            body.style.backgroundImage = "url(./assets/thunderstorm.jpg)";
             container.style.backgroundColor = "#baa5bb";
             enterYourCity.style.backgroundColor = "#baa5bb";
             thunderstorm.style = "display:block";
@@ -103,7 +103,7 @@ function backgroundPhoto (result) {
             snow.style = "display:none";
             break;
         case "Drizzle":
-            body.style.backgroundImage = "url(Drizzle.jpg)";
+            body.style.backgroundImage = "url(./assets/Drizzle.jpg)";
             container.style.backgroundColor = "#c1b1bb";
             enterYourCity.style.backgroundColor = "#c1b1bb";
             drizzle.style = "display:block";
@@ -114,7 +114,7 @@ function backgroundPhoto (result) {
             snow.style = "display:none";
             break;
         case "Snow":
-            body.style.backgroundImage = "url(snow.jpg)";
+            body.style.backgroundImage = "url(./assets/snow.jpg)";
             container.style.backgroundColor = "#d9cac4";
             enterYourCity.style.backgroundColor = "#d9cac4";
             snow.style = "display:block";
@@ -125,7 +125,7 @@ function backgroundPhoto (result) {
             drizzle.style = "display:none";
             break;
         default:
-            body.style.backgroundImage = "url(photo.jpg)";
+            body.style.backgroundImage = "url(./assets/photo.jpg)";
             container.style.backgroundColor = "#dab2ae";
             enterYourCity.style.backgroundColor = "#dab2ae";
     }
