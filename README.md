@@ -18,6 +18,16 @@
   <img src="https://komarev.com/ghpvc/?username=Alisa-Popovuch&style=flat-square&color=grey" alt="" width="130px"/>
 </div>
 
+## 📱 Mobile Friendly / Responsive
+
+Alle Projekte sind vollständig responsive und für folgende Geräte optimiert:
+
+- Desktop
+- Tablet
+- Mobile
+
+Layouts, Menüs und interaktive Elemente passen sich automatisch an verschiedene Bildschirmgrößen an, um eine optimale Benutzererfahrung auf Smartphones und Tablets zu gewährleisten.
+
 ## 🌦️ Über die App 
 Diese Anwendung ermöglicht es, das aktuelle Wetter für jede Stadt weltweit abzurufen.
 Der Benutzer gibt den Namen einer Stadt ein und erhält aktuelle Wetterinformationen wie Temperatur und Wetterbedingungen.
@@ -72,6 +82,16 @@ Dieses Projekt kann zu Lern- und Übungszwecken verwendet werden.
 <p align="center">
   <img src="weather-demo.gif" alt="Weather App Demo" width="700">
 </p>
+
+## 📱 Mobile Friendly / Responsive
+
+All projects are fully responsive and optimized for:
+
+- Desktop
+- Tablet
+- Mobile
+
+This means layouts, menus, and interactive elements adapt to different screen sizes, ensuring a smooth experience on phones and tablets.
 
 ## 🌦️ About the App 
 
