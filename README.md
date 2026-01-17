@@ -24,10 +24,11 @@ Der Benutzer gibt den Namen einer Stadt ein und erhält aktuelle Wetterinformati
 Das Projekt zeigt den Umgang mit externen APIs, Benutzereingaben und die dynamische Aktualisierung der Benutzeroberfläche mit JavaScript.
 
 ## 🛠️ Sprachen und Tools 
-HTML
-CSS
-JavaScript
-Weather API (Fetch)
+
+- HTML  
+- CSS  
+- JavaScript  
+- Weather API (Fetch)
 
 ## 🔧 Projekt lokal starten 
 Dieses Projekt benötigt keine zusätzliche Installation.
@@ -79,7 +80,7 @@ Users enter a city name and receive real-time weather information such as temper
 
 The project demonstrates working with external APIs, handling user input, and dynamically updating the user interface using JavaScript.
 
-## 🛠️ Languages and Tools (EN)
+## 🛠️ Languages and Tools 
 
 - HTML  
 - CSS  
